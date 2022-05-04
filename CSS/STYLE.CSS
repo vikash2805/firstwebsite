@@ -1,0 +1,57 @@
+/**************TAG SELECTOR*************/
+body {background-color: #FFD36E;
+     width: 50%;
+     margin-left: 10cm;
+     }
+h1  {color: black;
+    }
+h2  {color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+h3  {color: black;
+    text-align: center;
+    }
+
+ 
+p{color: blue;
+ font-size: 25px;
+ }
+hr { border-width: 5px;
+   border-style: none;
+   border-top-style: dotted;
+   width: 25%;
+   }
+   
+img:hover { border: 2px slateblue;
+     padding: 10px; 
+     background-color: black;
+     height: 200px;
+     animation: both;
+     animation-duration: 12ms;
+    }
+
+/**************************CLASS SELECTOR****************/
+
+.virat{ border: 2px red;
+    padding: 10px; 
+    height: 200px;
+    animation: both;
+    animation-duration: 12ms;
+    background-color: red;
+    }
+    /*
+.vikash1{ border: 2px green;
+    padding: 10px; 
+    height: 200px;
+    animation: both;
+    animation-duration: 12ms;
+background-color: blue;}*/
+.circular{
+    border-radius: 100%;
+}
+/************************ID SELECTOR******************/
+#first{color: blue;
+    text-align: center;
+    font-size: 60px;
+      }
